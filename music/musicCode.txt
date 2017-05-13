@@ -1,8 +1,0 @@
-        switch (music) {
-            case "Vault":
-                newMusic = "Vault.mp3";
-                break;
-            default:
-                newMusic = "Nexus.mp3";
-                break;
-        }
